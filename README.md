@@ -19,3 +19,6 @@ Power BI dashboard file.
 
 **Conclusion**
 The analysis concludes with actionable insights on whether Toman Bike Store can increase bike prices next year and the expected changes in customer demand and sales.
+
+**Dashboard**
+![image](https://github.com/OmkarLokre/Toman_Bike_store/assets/139554122/bceab0ec-09ff-46e0-a4bd-6e5861d89178)
